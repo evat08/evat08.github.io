@@ -1,13 +1,17 @@
 .eva{
-	background-color: black;
-	color: white;
-text-align: right;
+	background-color: #1D2224;
+	color: #9bae96;
+	text-align: center; 
 }
 
 .marilena{
-	color: white;
+	color: black;
+	background-color: white;
+	font-weight: bold;
 
-	background-color: black;
+}
 
+.yiannos{
 
+	margin: 20px;
 }
